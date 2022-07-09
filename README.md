@@ -9,7 +9,7 @@ A couple of projects to get familiar with the React framework.
 
 
 ## Projects
-1. **todo**: Basic todo app to get started.
+1. **todo**: Basic todo app to get start.
 2. **tictactoe**: A tic-tac-toe game uses states and props.
 3. **markdown-editor**: A real-time markdown editor SPA. [(Live Demo)](https://react-markdown-editor.firebaseapp.com)
 4. **basic-react-redux**: Basic react-redux project which handles articles in its store.
